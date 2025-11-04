@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <section id="home" className="relative h-[85vh] min-h-[520px] w-full overflow-hidden bg-zinc-950 text-zinc-100">
       <div className="absolute inset-0">
-        <Spline scene="https://prod.spline.design/xzUirwcZB9SOxUWt/scene.splinecode" style={{ width: '100%', height: '100%' }} />
+        <Spline scene="https://prod.spline.design/igThmltzmqv5hkWo/scene.splinecode" style={{ width: '100%', height: '100%' }} />
       </div>
 
       {/* Soft gradient overlay to ensure text contrast */}
